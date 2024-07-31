@@ -1,0 +1,35 @@
+{
+  "width": 3,
+  "height": 3,
+  "board_state": [
+    [1,1,1],
+    [1,"M",1],
+    [1,1,1]
+  ],
+  "current_state": {
+    "turn_number": 2,
+    "last_selected_x": 1,
+    "last_selected_y": 1,
+    "list_flags": [
+      [1,1]
+    ],
+    "visible_tiles": [
+      [1,1,1],
+      [1,0,1],
+      [1,1,1]
+    ]
+  },
+  "log": [
+    {
+      "turn_number": 1,
+      "last_selected_x": 0,
+      "last_selected_y": 0,
+      "list_flags": [],
+      "visible_tiles": [
+        [0,0,0],
+        [0,0,0],
+        [0,0,0]
+      ]
+    }
+  ]
+}

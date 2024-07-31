@@ -1,0 +1,67 @@
+{
+    "log": [
+        {
+            "list_flags": [],
+            "last_selected_y": 0,
+            "last_selected_x": 0,
+            "visible_tiles": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "turn_number": 1
+        },
+        {
+            "list_flags": [],
+            "last_selected_y": 1,
+            "last_selected_x": 1,
+            "visible_tiles": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            "turn_number": 2
+        }
+    ],
+    "board_state": [
+        [
+            1,
+            1
+        ],
+        [
+            "M",
+            1
+        ]
+    ],
+    "width": 2,
+    "current_state": {
+        "list_flags": [[
+            0,
+            1
+        ]],
+        "last_selected_y": 1,
+        "last_selected_x": 0,
+        "visible_tiles": [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "turn_number": 3
+    },
+    "height": 2
+}
